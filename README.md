@@ -1,4 +1,4 @@
 # Python
 Python Projects 
 
-Calculator Application: Application developed in Python & calculator performs basic arithmetic operations
+Calculator Application: The Calculator App is developed in Python & performs basic arithmetic operations for two values, based on the user's input.
