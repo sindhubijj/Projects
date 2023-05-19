@@ -16,6 +16,6 @@
   Hello World! Web Page: The "Hello World!" web page is developed in HTML. When the page is opened a web page with the words "Hello World!" will open. This web page can be opened either through the terminal on a device or through the link. 
 
 ## Scratch Projects
-  Link: https://scratch.mit.edu/projects/853993859 
+  ##Link: https://scratch.mit.edu/projects/853993859 
   This is an animation inspired by the movie "The Lion King" and the song "Hakuna Matata". Using Scratch, I added the Sprites to represent the characters, Simba, Nala, Timon, & Pumba. They move across the log to song "Hakuna Matata" and it loops until the song ends. This is a small animation as an introduction into game development. 
   
