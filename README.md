@@ -9,6 +9,8 @@
   prompt where the user can input their game choice. The computer will then make it's choice, randomly. Based on the result of the game, a prompt will 
   appear displaying the outcome. 
 
+**_Reaction Time Test_ Application:** This is a simple application to test a user's reaction time. After the prompt message is displayed, the user will press "Enter" which will      give their reaction time. 
+
 
 ## HTML Projects
   **_"Hello World!"_ Web Page:** The "Hello World!" web page is developed in HTML. When the page is opened a web page with the words "Hello World!" will open. This web page can be opened either through the terminal on a device or through the link. 
