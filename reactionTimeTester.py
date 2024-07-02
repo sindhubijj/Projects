@@ -24,6 +24,6 @@ def reaction_time_test():
         try_again = input("Would you like to try again? (Yes / No): ")
         if try_again.lower() != 'Yes':
             break
-    
-    if __name__ == "__main__":
-        reaction_time_test()
+
+if __name__ == "__main__":
+    reaction_time_test()
